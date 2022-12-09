@@ -38,7 +38,7 @@ class Empresa {
 }
 ```
 
-## Mecanismos 1 - Técnica extract class
+## Mecanismo 1 - Técnica extract class
 
 ### Descripción
 
@@ -114,7 +114,7 @@ class Empresa
 }
 ```
 
-## Mecanismos 1 - Técnica Encapsulate Field
+## Mecanismo 2 - Técnica Encapsulate Field
 
 ### Descripción
 
