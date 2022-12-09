@@ -1,4 +1,4 @@
-# PRÁCTICA 7: REFACTORINIG - MECANISMOS
+# PRÁCTICA 7: REFACTORING - MECANISMOS
 
 Aplicar al menos 2 mecanismos de Refactoring al siguiente ejemplo de código.
 
